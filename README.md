@@ -1,0 +1,2 @@
+# detailform
+personal detail form
